@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T04:14:12.390Z",
+  "generated_at": "2026-09-25T04:17:32.486Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -154,6 +154,19 @@
       "path": "problems/0145-adagrad-optimizer",
       "first_solved_at": "2026-09-25T04:14:11.768Z",
       "last_pushed_at": "2026-09-25T04:14:11.768Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-09-25T04:17:31.798Z",
+      "last_pushed_at": "2026-09-25T04:17:31.798Z",
       "language": "python",
       "lines": 19
     }
