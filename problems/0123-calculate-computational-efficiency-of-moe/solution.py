@@ -11,6 +11,4 @@ def compute_efficiency(n_experts, k_active, d_in, d_out):
     Returns:
         Percentage savings in FLOPs
     """
-    dense_flops = n_experts * d_in * d_out
-    sparse_flops = k_active * d_in * d_out
     return 100 * (n_experts - k_active) / n_experts
