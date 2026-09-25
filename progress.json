@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T04:32:26.312Z",
+  "generated_at": "2026-09-25T04:35:37.789Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -195,6 +195,19 @@
       "last_pushed_at": "2026-09-25T04:32:23.231Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:123": {
+      "kind": "problem",
+      "id": "123",
+      "title": "Calculate Computational Efficiency of MoE",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/123",
+      "path": "problems/0123-calculate-computational-efficiency-of-moe",
+      "first_solved_at": "2026-09-25T04:35:34.460Z",
+      "last_pushed_at": "2026-09-25T04:35:34.460Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
