@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 37 problems · 0 labs · 0 math
+**38** solved · 38 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-24 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-10-04 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-10-05 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-04 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-10-03 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-04 | [solution](problems/0085-positional-encoding-calculator) |
