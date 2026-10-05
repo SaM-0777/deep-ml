@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 42 problems · 0 labs · 0 math
+**43** solved · 43 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-03 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-03 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-24 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-10-05 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-09-25 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-09-25 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-09-25 | [solution](problems/0103-implement-the-selu-activation-function) |
