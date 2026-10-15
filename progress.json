@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:31:19.875Z",
+  "generated_at": "2026-10-15T12:36:23.895Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -806,6 +806,19 @@
       "last_pushed_at": "2026-10-15T12:31:18.855Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:1019": {
+      "kind": "problem",
+      "id": "1019",
+      "title": "Estimate KV-Cache Memory for MHA vs Linear Attention",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1019",
+      "path": "problems/1019-estimate-kv-cache-memory-for-mha-vs-linear-attention",
+      "first_solved_at": "2026-10-15T12:36:20.185Z",
+      "last_pushed_at": "2026-10-15T12:36:20.185Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
